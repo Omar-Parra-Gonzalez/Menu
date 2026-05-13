@@ -5,7 +5,7 @@ El objetivo principal es aplicar conocimientos en maquetación, diseño responsi
 Tecnologías utilizadas
 - HTML5
 - SCSS
-- CSS3
+- CSS
 - Flexbox
 
 El objetivo es crear una propuesta visual y estructural para una pizzería que posteriormente pueda conectarse e integrarse con el proyecto web principal Chicken Friends.
