@@ -1,6 +1,6 @@
-Proyecto en curso menu Pizzería
+Este proyecto consiste en el desarrollo de un menú digital mobile para una pizzería diseñado para ser visualizado desde dispositivos móviles mediante acceso por código QR.
 
-El objetivo principal es aplicar conocimientos en maquetación, diseño responsive y organización de estilos, sirviendo como base para una futura integración con una página web ya desarrollada llamada Chicken Friends.
+Fue creado con el objetivo de aplicar conocimientos en desarrollo frontend, diseño responsive y organización de estilos, además de servir como base para futuras integraciones con otros proyectos web.
 
 Tecnologías utilizadas
 - HTML5
