@@ -3,7 +3,7 @@ Este proyecto consiste en el desarrollo de un menú digital mobile para una pizz
 Fue creado con el objetivo de aplicar conocimientos en desarrollo frontend, diseño responsive y organización de estilos, además de servir como base para futuras integraciones con otros proyectos web.
 
 Tecnologías utilizadas
-- HTML5
+- HTML
 - SCSS
 - CSS
 - Flexbox
